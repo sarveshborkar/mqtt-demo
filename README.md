@@ -1,4 +1,4 @@
-# MQTT for Asynchronous Application
+# MQTT for Asynchronous Messaging
 This project demonstrates an MQTT messaging application where a sender sends messages to a receiver using the Mosquitto MQTT broker.
 
 
